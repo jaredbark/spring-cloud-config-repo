@@ -1,4 +1,4 @@
 ondot:
   config:
     profile: DEV
-    level: info
+    level: trace
