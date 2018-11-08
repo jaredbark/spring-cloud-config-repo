@@ -1,0 +1,4 @@
+ondot:
+  config:
+    profile: PRD
+    level: info

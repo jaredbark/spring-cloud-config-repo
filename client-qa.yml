@@ -1,0 +1,4 @@
+ondot:
+  config:
+    profile: QA
+    level: debug
