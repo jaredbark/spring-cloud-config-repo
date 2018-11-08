@@ -3,5 +3,5 @@ ondot:
     profile: DEV
     level: trace
 logging:
-  file: c:/Z_Source/jb_project/SpringCloudConfig/log/service-client.log
+  file: "c:/Z_Source/jb_project/SpringCloudConfig/log/service-client.log"
   level: debug
