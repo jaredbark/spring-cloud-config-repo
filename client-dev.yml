@@ -1,8 +1,8 @@
 ondot:
   config:
-    profile: DEBUG
-    level: debug
+    profile: Info
+    level: warn
 logging:
   file: "c:/Z_Source/jb_project/SpringCloudConfig/log/service-client.log"
   level:
-    ROOT: debug
+    ROOT: error
