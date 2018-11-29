@@ -5,4 +5,4 @@ ondot:
 logging:
   file: "c:/Z_Source/jb_project/SpringCloudConfig/log/service-client.log"
   level:
-    ROOT: warn
+    ROOT: info
